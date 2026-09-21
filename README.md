@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./profile-banner.png" alt="Pratham Singh - AI/ML Engineer" width="100%">
+</p>
 # Hi, I'm Pratham Singh 👋
 
 ### AI/ML Engineer | Generative AI | Agentic AI | Computer Vision
